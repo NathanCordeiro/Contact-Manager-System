@@ -28,9 +28,9 @@
         <li>Navigate to the project directory:</li>
         <pre><code>cd Contact-Manager-System</code></pre>
         <li>Compile the program:</li>
-        <pre><code>gcc main.c -o ContactManager</code></pre>
+        <pre><code>gcc main.c -o CONTACT_MANAGER_SYSTEM.c</code></pre>
         <li>Run the program:</li>
-        <pre><code>./ContactManager</code></pre>
+        <pre><code>./CONTACT_MANAGER_SYSTEM</code></pre>
     </ol>
 
 <h2>License</h2>
